@@ -26,3 +26,4 @@ Lastly, you need to launch the Sinatra server. Prefix the command with your Box 
     BOX_API_KEY=<your api key> rackup
 
 This will run the server on port 9292. Visit http://localhost:9292 to see your app in action.
+![Codeship status] (https://github.com/sbhaskar/box-sample-ruby-app)
